@@ -1,0 +1,5 @@
+166.i -o 166.s
+200.i -o 200.s
+expr.i -o expr.s
+integrate.i -o integrate.s
+scilab.i -o scilab.s

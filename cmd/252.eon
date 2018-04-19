@@ -1,0 +1,3 @@
+chair.control.cook chair.camera chair.surfaces chair.cook.ppm ppm pixels_out.cook
+chair.control.rushmeier chair.camera chair.surfaces chair.rushmeier.ppm ppm pixels_out.rushmeier
+chair.control.kajiya chair.camera chair.surfaces chair.kajiya.ppm ppm pixels_out.kajiya

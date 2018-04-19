@@ -1,0 +1,6 @@
+-I./lib diffmail.pl 2 550 15 24 23 100
+-I./lib splitmail.pl 850 5 19 18 1500
+-I./lib splitmail.pl 704 12 26 16 836
+-I./lib splitmail.pl 535 13 25 24 1091
+-I./lib splitmail.pl 957 12 23 26 1014
+-I./lib perfect.pl b 3 m 4
